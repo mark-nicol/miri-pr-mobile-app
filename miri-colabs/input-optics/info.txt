@@ -1,0 +1,3 @@
+Collaborator: Centre Spatial de Liege
+Location: Belgium
+Description: This unit takes the light from the telescope and divides and correctly formats the beam for the Imager and Spectrometer subsystems. It also contains a Contamination Control Cover mechanism (provides by the Paul Scherrer Institute (PSI) in Switzerland) which ensure the sensitive optical surface stay clean throughout the mission.

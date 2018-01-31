@@ -1,0 +1,3 @@
+Collaborator: NASA Jet Propulsion Laboratory (JPL)
+Location: USA
+Description: The MIRI photodetectors are composed of semiconductor material that creates free charge carriers (i.e., electrons) when photons are absorbed. These arsenic-doped silicon impurity band conduction (Si:As IBC) devices are sensitive to electromagnetic radiation from 5 to 28.5 micrometres.

@@ -1,0 +1,3 @@
+Collaborator: Paul Scherrer Institute
+Location: Switzerland
+Description: This cover is placed in the entrance optical path of MIRI right after the picko. mirror (POM) and will be closed during the instrument's cool down phase and at MIRI's operational temperature each time the POM is heated up for decontamination. The CCC will be used further as an optical shutter for dark sky calibration and for the protection against latency images which might emerge from coronagraphic filter changes.

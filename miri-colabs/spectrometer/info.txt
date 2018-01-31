@@ -1,0 +1,3 @@
+Collaborator: ASTRON, UKATC
+Location: Various
+Description: Business end of the instrument, contains the detectors.

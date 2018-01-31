@@ -1,0 +1,3 @@
+Collaborator: CEA
+Location: Saclay, France
+Description: For imaging, the MIRI imager offers 9 broadband filters covering wavelengths from 5.6 to 25.5 micrometers over an unobstructed 74" × 113" field of view, and a detector plate scale of 0.11"/pixel (Bouchet et al. 2015). The MIRI imaging mode also supports the use of detector subarrays for bright targets, as well as a variety of dither patterns that could improve sampling at the shortest wavelengths, remove detector artifacts and cosmic ray hits, and facilitate self-calibration.

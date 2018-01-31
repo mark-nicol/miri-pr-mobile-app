@@ -1,0 +1,3 @@
+Collaborator: INTA
+Location: Madrid, Spain
+Description: Deliver a test beam to MIRI similar to the output beam of the JWST and in similar conditions to the flight environment.
